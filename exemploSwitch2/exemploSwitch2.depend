@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503142579 source:c:\lingprogn\lingprogn\exemploswitch2\main.c
+	<stdio.h>
+	<stdlib.h>
+
